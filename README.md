@@ -1,4 +1,4 @@
-![Data Science Enthusiat]<img src="https://www.superdatascience.com/Landing/LandingCloud.jpg" width="1000" height="600">
+![Data Science Enthusiat](<img src="https://www.superdatascience.com/Landing/LandingCloud.jpg" width="1000" height="300">)
 #### Data Science Enthusiast
 I am currently a mechanical engineer passed out in 2020 and transitioning into data science field. I am looking for an opportunity to develop and grow myself. I am curious how data science is changing the way technology is used and I would love to grab the opportunity coming in my way.
 
