@@ -1,4 +1,4 @@
-<img align="left" alt="Coding" width="440" height=300 src="https://camo.githubusercontent.com/a51e42ec7c78b8d69520031d6108d0b91a27db77ecc9af87157aa9c4062092f7/68747470733a2f2f7777772e737570657264617461736369656e63652e636f6d2f4c616e64696e672f4c616e64696e67436c6f75642e6a7067"><img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width=300 height=300 alt="animated"></p>
+<img align="left" alt="Coding" width="500" height=300 src="https://camo.githubusercontent.com/a51e42ec7c78b8d69520031d6108d0b91a27db77ecc9af87157aa9c4062092f7/68747470733a2f2f7777772e737570657264617461736369656e63652e636f6d2f4c616e64696e672f4c616e64696e67436c6f75642e6a7067"><img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width=300 height=300 alt="animated"></p>
 
 <h1 align="left">Keval Lad</h1>
 
