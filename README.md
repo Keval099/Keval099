@@ -31,7 +31,7 @@ I am currently a mechanical engineer passed out in 2020 and transitioning into d
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/Keval099">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Keval099&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
   <img height="180em" width="499" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Keval099&layout=compact&exclude_lang=java+r&theme=vue-dark" />
