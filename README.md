@@ -9,7 +9,7 @@ I am currently a mechanical engineer passed out in 2020 and transitioning into d
 - Python3
 - SQL
 - MS EXCEL
-- Google Data Studio
+- Tableau
 - ML
 - Data Analysis
 
