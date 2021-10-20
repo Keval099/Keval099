@@ -20,7 +20,6 @@ I am currently a mechanical engineer passed out in 2020 and transitioning into d
 - 👯 I’m looking to collaborate on data science projects
 - 🤔 I’m looking for help with Advanced ML Techniques
 - 💬 Ask me about data analysis, python , SQL
-- 😄 Pronouns: he/his
 - ⚡ Fun fact: I get bored easily!
 
 ## Connect with me:
