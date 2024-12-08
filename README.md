@@ -44,5 +44,3 @@ Recognizing the importance of continuous learning in the ever-evolving tech indu
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
-
-![Profile views](https://gpvc.arturio.dev/Keval099)  
