@@ -29,13 +29,18 @@ Recognizing the importance of continuous learning in the ever-evolving tech indu
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/Keval099">
-  <img height="180em" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Keval099&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Keval099&layout=compact&exclude_lang=java+r&theme=vue-dark" />
-  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=Keval099"/>
-</a>
-</p>
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Keval099&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" style="width: 400px; height: 200px;" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Keval099&layout=compact&theme=vue-dark" style="width: 400px; height: 225px;" />
+</div>
+<div style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Keval099" style="width: 400px; height: 200px;" />
+</div>
+
+
+
+
+	
 
 
 
