@@ -1,26 +1,27 @@
 # Keval Lad<img src="https://raw.githubusercontent.com/ptprashanttripathi/ptprashanttripathi/master/hi.gif" width="30px">
 
-### Data Science Enthusiast
+### About Me
 
+Dynamic and growth-oriented Quality Engineer, at the start of my carrier I started leveraging a blend of manual and automation testing skills to deliver software solutions of the highest quality. Entering the technology landscape in 2021, I commenced my journey as a Functional Tester on Guidewire software, which deepened my understanding of insurance industry requirements and sharpened my ability to recognize crucial functionalities and identify discrepancies. Within a year, I embraced the opportunity to transition into an Automation Tester role, utilizing Jruby language and Behaviour-Driven Development (BDD) frameworks, thus enhancing test efficiency and accuracy.
 
-I am currently a mechanical engineer passed out in 2020 and transitioning into data science field. I am looking for an opportunity to develop and grow myself. I am curious how data science is changing the way technology is used and I would love to grab the opportunity coming in my way.
+Recognizing the importance of continuous learning in the ever-evolving tech industry, I have skillfully adapted my expertise, augmenting my testing toolkit with Java, Selenium, Maven, and TestNG. This self-driven up-skilling underpins my ability to deliver comprehensive, efficient, and automated test solutions. Passionate about achieving quality outcomes, managing risks, and deploying high-standard products, I am now eager to apply and expand my knowledge in challenging environments, contributing through my analytical insights and dedication towards achieving excellence.
 
 ## Skills:
-- Python3
+- Java, Selenium Webriver, Python
 - SQL
-- MS EXCEL
-- Tableau
-- ML
-- Data Analysis
+- Guidewire Policy Center
+- Automation Tesing, Functional Testing
+- BDD, Maven, Cucumber, TestNG
+- Agile Software Development
 
 ## About me:
 
 - 🔭 I’m currently working on upskilling myself!
-- 🌱 I’m currently learning ML
-- 👯 I’m looking to collaborate on data science projects
-- 🤔 I’m looking for help with Advanced ML Techniques
-- 💬 Ask me about data analysis, python , SQL
-- ⚡ Fun fact: I get bored easily!
+- 🌱 I’m currently on a Journey to Learn to DevOps
+- 🧑‍🤝‍🧑 I’m looking to collaborate on DevOps projects
+- 🤔 I’m looking for help with DevOps Tools, Learning Path, Tips etc
+- 💬 Ask me about Java, Seleniu Webdriver, Guidewire Policy Center
+- ⚡ Fun fact: I Love watching Formula 1, Cricket.
 
 ## Connect with me:
 
